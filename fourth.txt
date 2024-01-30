@@ -1,1 +1,2 @@
+To check the revert option
 To pull from remote repository 
